@@ -1,3 +1,3 @@
 # exampleDataProject
-"author: Qifan Tang"
+"author: Qifan Tang",<br>
 "author: Yue Li"
