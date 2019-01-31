@@ -1,3 +1,4 @@
 # exampleDataProject
-author: Qifan Tang \n
+author: Qifan Tang
+
 author: Yue Li
